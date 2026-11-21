@@ -59,8 +59,6 @@ App
     └── InfoPanel
 ```
 
-The model geometry is built from Three.js primitives and procedural geometry; it does not load an external fort model. The tower proportions follow the 45 m diameter and 34 m height cited by [Experience Oman](https://experienceoman.om/en/destinations/al-dakhiliyah/nizwa-fort). The [Oman Ministry of Education](https://home.moe.gov.om/ar/pages/183/show/690?GetLang=en) publishes different figures (43 m external diameter and 24 m height). These references disagree, so the displayed model uses the former proportions without claiming an absolute scale. For additional background, see the [official Nizwa Fort site](https://nizwafort.om/ar/%D8%B9%D9%86-%D8%A7%D9%84%D9%82%D9%84%D8%B9%D8%A9/).
-
 ## Project Structure
 
 ```text
