@@ -1,0 +1,11 @@
+In PowerShell, open the project folder and start the development server:
+
+```powershell
+cd "C:\Users\Al Azher\Desktop\Nizwa"
+npm install
+npm run dev
+```
+
+Open the local URL Vite prints in your browser, usually `http://localhost:5173/`.
+
+To create and preview a production build, run `npm run build` and then `npm run preview`.
